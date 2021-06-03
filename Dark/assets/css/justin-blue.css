@@ -528,7 +528,7 @@ a {
 .section-home {
     height: 100vh;
     position: relative;
-    background-image: url("../images/slider3.jpg");
+    background-image: url("../images/hero-poster.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -747,7 +747,7 @@ a {
 }
 
 .section-about:after {
-    content: "";
+    /* content: "";
     position: absolute;
     right: -80px;
     z-index: -354;
@@ -756,7 +756,7 @@ a {
     display: block;
     background: url(../images/pattern1.png);
     background-size: 155px;
-    top: -80px;
+    top: -80px; */
 }
 
 .section-about:before {
