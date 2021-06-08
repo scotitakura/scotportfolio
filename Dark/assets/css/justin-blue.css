@@ -528,7 +528,7 @@ a {
 .section-home {
     height: 100vh;
     position: relative;
-    background-image: url("../images/hero-poster.jpg");
+    background-image: url("../images/hero-stairs.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -746,8 +746,8 @@ a {
     max-width: 950px;
 }
 
-.section-about:after {
-    /* content: "";
+/* .section-about:after {
+    content: "";
     position: absolute;
     right: -80px;
     z-index: -354;
@@ -756,8 +756,8 @@ a {
     display: block;
     background: url(../images/pattern1.png);
     background-size: 155px;
-    top: -80px; */
-}
+    top: -80px;
+} */
 
 .section-about:before {
     content: "";
@@ -1089,15 +1089,15 @@ a {
 }
 
 .services-list-1 {
-    background-image: url("../images/services1.jpg");
+    background-image: url("../images/webservices.jpg");
 }
 
 .services-list-2 {
-    background-image: url("../images/services2.jpg");
+    background-image: url("../images/uxuiservices.jpg");
 }
 
 .services-list-3 {
-    background-image: url("../images/services3.jpg");
+    background-image: url("../images/dataservices.jpg");
 }
 
 .services-list-4 {
@@ -1119,7 +1119,7 @@ a {
 
 
 .section-freelance {
-    background: url(../images/hero-stairs.jpg);
+    background: url(../images/hero-poster.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
